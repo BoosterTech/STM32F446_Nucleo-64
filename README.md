@@ -6,3 +6,5 @@ STM32CubeMX &amp; STM32Workbench Projects
    PWM Mode is used to obtain a glowing effect of LED lights connected to pins.
    These 2 LEDs glow 1 after the other. Every time any of them is off, on-board LED is Toggled.
    Program also outputs frequencies of SYSCLK, HCLK, PCLK1 and PCLK2 on the display connected through UART2 GPIO_PIN_2 (I used Tera Term VT)
+   
+   Using STM32 Workbech (Eclipse)
