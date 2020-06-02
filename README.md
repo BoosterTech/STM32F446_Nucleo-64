@@ -5,7 +5,7 @@ STM32CubeMX &amp; STM32Workbench Projects
    and then from 100 back to 0 (3.3V -> 0V) on 2 GPIO Pins: GPIO_PA_0 and GPIO_PA_1 of STM32F446RET6 Nucleo-64 board.
    PWM Mode is used to obtain a glowing effect of LED lights connected to pins.
    These 2 LED lights glow 1 after the other. Every time any of them is off, on-board LED is Toggled.
-   Program also outputs frequencies of SYSCLK, HCLK, PCLK1 and PCLK2 on the display connected through UART2 GPIO_PIN_2 (I used Tera Term      VT)
+   Program also outputs frequencies of SYSCLK, HCLK, PCLK1 and PCLK2 on the display connected through UART2 GPIO_PIN_2 (I used Tera Term      VT, COM3 port of the PC).
    
    Using STM32 Workbench, download under the link:
    https://www.openstm32.org/System%2BWorkbench%2Bfor%2BSTM32
