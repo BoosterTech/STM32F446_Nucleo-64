@@ -7,4 +7,5 @@ STM32CubeMX &amp; STM32Workbench Projects
    These 2 LEDs glow 1 after the other. Every time any of them is off, on-board LED is Toggled.
    Program also outputs frequencies of SYSCLK, HCLK, PCLK1 and PCLK2 on the display connected through UART2 GPIO_PIN_2 (I used Tera Term VT)
    
-   Using STM32 Workbech (Eclipse)
+   Using STM32 Workbench, download under the link:
+   https://www.openstm32.org/System%2BWorkbench%2Bfor%2BSTM32
